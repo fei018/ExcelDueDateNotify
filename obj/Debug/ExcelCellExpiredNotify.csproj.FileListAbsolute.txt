@@ -1,0 +1,15 @@
+C:\Tools\Code\ExcelCellExpiredNotify\obj\Debug\ExcelCellExpiredNotify.csproj.AssemblyReference.cache
+C:\Tools\Code\ExcelCellExpiredNotify\obj\Debug\ExcelCellExpiredNotify.csproj.SuggestedBindingRedirects.cache
+C:\Tools\Code\ExcelCellExpiredNotify\obj\Debug\ExcelCellExpiredNotify.csproj.CoreCompileInputs.cache
+C:\Tools\Code\ExcelCellExpiredNotify\bin\Debug\ExcelCellExpiredNotify.exe
+C:\Tools\Code\ExcelCellExpiredNotify\bin\Debug\ExcelCellExpiredNotify.pdb
+C:\Tools\Code\ExcelCellExpiredNotify\bin\Debug\ClosedXML.dll
+C:\Tools\Code\ExcelCellExpiredNotify\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Tools\Code\ExcelCellExpiredNotify\bin\Debug\ExcelNumberFormat.dll
+C:\Tools\Code\ExcelCellExpiredNotify\bin\Debug\ClosedXML.pdb
+C:\Tools\Code\ExcelCellExpiredNotify\bin\Debug\ClosedXML.xml
+C:\Tools\Code\ExcelCellExpiredNotify\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Tools\Code\ExcelCellExpiredNotify\bin\Debug\ExcelNumberFormat.xml
+C:\Tools\Code\ExcelCellExpiredNotify\obj\Debug\ExcelCellExpiredNotify.csproj.CopyComplete
+C:\Tools\Code\ExcelCellExpiredNotify\obj\Debug\ExcelCellExpiredNotify.exe
+C:\Tools\Code\ExcelCellExpiredNotify\obj\Debug\ExcelCellExpiredNotify.pdb
